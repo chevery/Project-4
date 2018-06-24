@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:KillMyself.Viewmodel"
+             x:Class="KillMyself.Filter"
+    Title="Categorie" Icon="icons8-single-choice-50 (1).png">
+
+    
+    <ContentPage.Content>
+            <ScrollView>
+
+         <StackLayout Spacing="10" Padding="0">
+            
+           
+            <StackLayout>
+                
+                <!--<SearchBar x:Name="sb_search" Placeholder="Search"/> -->
+                    <Label Text="Leeftijd" TextColor="Black" FontSize="35" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="LightGray"/>
+
+                    <Label Text="Kinderen" TextColor="Black" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+
+                <ListView x:Name="listHome"
+                      HasUnevenRows="True"
+                          RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="200">
+                    
+
+
+                    <ListView.ItemTemplate>
+                        
+                        <DataTemplate>
+                            
+                            <ImageCell Text="{Binding Name}"  TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80"
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+                            
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+                <StackLayout>
+                    <Label Text="Stad" TextColor="Black" FontSize="35" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="LightGray"/>
+
+                    <Label Text="Amsterdam" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                    <ListView x:Name="listHome3"
+                      HasUnevenRows="True"
+                          RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="200">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                    <Label Text="Den Haag" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                    <ListView x:Name="listHome4"
+                      HasUnevenRows="True"
+                              RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="200">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+                <StackLayout>
+
+
+                    <Label Text="Rotterdam" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                    <ListView x:Name="listHome5"
+                      HasUnevenRows="True"
+                              RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="270">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+                <Label Text="Utrecht" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                <ListView x:Name="listHome6"
+                      HasUnevenRows="True"
+                          RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="270">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <StackLayout>
+                    <Label Text="Categorie" TextColor="Black" FontSize="35" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="LightGray"/>
+
+                    <Label Text="Middeleeuwen" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+            <ListView x:Name="listHome1"
+                      HasUnevenRows="True"
+                      RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="200">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"
+                                   />
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            </StackLayout>
+
+
+            <StackLayout>
+
+                    <Label Text="Kunst" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                <ListView x:Name="listHome2"
+                      HasUnevenRows="True"
+                          RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="340">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+                           
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+            </StackLayout>
+            
+            <StackLayout>
+
+
+                    <Label Text="19e eeuw" FontSize="20" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+                <ListView x:Name="listHome7"
+                      HasUnevenRows="True"
+                          RowHeight="-1"
+                          IsGroupingEnabled="False"
+                          HeightRequest="270">
+                      
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+
+                            
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+
+        </StackLayout>
+
+
+            </ScrollView>
+        </ContentPage.Content>
+        
+</ContentPage>

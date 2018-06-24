@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KillMyself.Tentoonstellingen"
+             Title="Tentoonstellingen" Icon="baseline_watch_later_black_18dp.png">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="0">
+            <Label Text="Tentoonstellingen" FontSize="34" HorizontalTextAlignment="Center"/>
+            <ListView x:Name="listTentoonstellingen"
+                      HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell Text="{Binding Name}" TextColor="Black"
+                                   Detail="{Binding Detail}" 
+                                   ImageSource="{Binding Imageurl}" Height="80" 
+                                   Command="{Binding NavigateToProduct}"
+                                   CommandParameter="{Binding .}"/>
+                        <!--<TextCell Text="{Binding Name}" TextColor="Black" ></TextCell>
+                        -->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

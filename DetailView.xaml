@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KillMyself.DetailView">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="10" Padding="0">
+
+                <Label x:Name="Title2"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                       FontSize="Large"
+                       FontAttributes="Bold"/>
+
+                <Label x:Name="ItemDetailTekst"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+                <Image x:Name="Foto"
+                    VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+                <Label x:Name="Opening" VerticalOptions="Center"
+                       HorizontalOptions="Center"
+                       />
+
+                <Label x:Name="Webs"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"
+                       FontSize="Micro"/>
+
+                <Button x:Name ="Button1" Clicked="Button1_Clicked" Text="Bezoek Website" BackgroundColor="LightGray" TextColor="Black"/>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

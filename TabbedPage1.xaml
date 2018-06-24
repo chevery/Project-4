@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KillMyself.TabbedPage1"
+            xmlns:local1="clr-namespace:KillMyself">
+    <!--Pages can be added as references or inline-->
+    <local1:Home>
+    </local1:Home>
+    <local1:Filter>
+    </local1:Filter>
+    <local1:Tentoonstellingen>
+    </local1:Tentoonstellingen>
+    <local1:Settings>
+    </local1:Settings>
+
+</TabbedPage>
