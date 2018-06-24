@@ -1,0 +1,62 @@
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\source\repos\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\Downloads\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csprojAssemblyReference.cache
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\sheri\Downloads\KillMyself (4)\KillMyself\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csprojAssemblyReference.cache
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\Downloads\KillMyself (1work)\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\vince\Downloads\KillMyselfSgevery\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csprojAssemblyReference.cache
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.deps.json
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.dll
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\bin\Debug\netstandard2.0\KillMyself.pdb
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csprojAssemblyReference.cache
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.csproj.CoreCompileInputs.cache
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfoInputs.cache
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.AssemblyInfo.cs
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.dll
+C:\Users\Chevery\Downloads\KillMyselfButtons-TheEnd (1)\KillMyselfButtons-TheEnd\KillMyselfButtons-expandable\KillMyselfButtons\KillMyself\KillMyself\KillMyself\obj\Debug\netstandard2.0\KillMyself.pdb
